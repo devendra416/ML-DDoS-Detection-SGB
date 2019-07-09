@@ -1,4 +1,4 @@
-# ML-DDoS-Detection-SGB
+# Machine Learning-DDoS-Detection-using-Stochastic Gradient Boosting
 Machine Learning DDoS detection using stochastic Gradient Boosting compared with other Supervised ML algorithms.
 the datasets used to evalute the ML models are uploded to Kaggle.
 Find the datasets at https://www.kaggle.com/devendra416/ddos-datasets.
